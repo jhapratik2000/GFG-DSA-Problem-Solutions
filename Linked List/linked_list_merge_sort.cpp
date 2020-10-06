@@ -1,4 +1,4 @@
-// C++ code for linked list merged sort 
+// C++ code for linked list merge sort 
 #include <bits/stdc++.h> 
 using namespace std; 
 
